@@ -1,0 +1,39 @@
+
+By Caty Weaver
+10 March 2020
+The internet has led to major changes in nearly every area of modern life, higher education included.
+Many colleges and universities have created internet-based study programs to meet the needs of today's students. But a growing number of experts say more change is required.
+A recent study from an American non-profit research organization suggests colleges and universities must also expand what they are teaching. Researchers found a need for schools to add internet use training to their study programs. This training, they say, should center on how to best use the internet to find trustworthy information.
+Students work on computers at the Hunt Library at North Carolina State University in Raleigh, N.C., on Tuesday, May 3, 2016.
+The Harvard Graduate School of Education and the John S. and James L. Knight Foundation established Project Information Literacy. It examines how college students find, process and use information. In January, the organization released findings from an opinion study of 37 professors and over 100 college students from across the United States.
+The study found the current generation of young people who grew up using the internet on a usual basis is highly distrustful of much of the information they find online. They question how internet companies use software programs known as algorithms to decide what information users see.
+Discussion of the algorithms and how they affect online information is also lacking in college and university classrooms, the study found.
+Algorithms affect nearly every part of a person's experience on the internet, notes Margy MacMillan, a leading researcher with Project Information Literacy. She says it relates to how internet companies like Google and Facebook make money.
+Search engines like Google are most people's entry to the internet, says MacMillan. If a person wants to find information about something, they usually start with Google's search bar. As soon as they start typing or choosing links, Google's algorithm starts gathering data about every choice users make.
+Google uses that data to try to find the websites or information that most directly relate to what the user is looking for, MacMillan says. But companies also pay Google to post advertisements for products that could relate to users' search data. For example, if you search for places to take a vacation, you will likely start to see ads for travel companies, flights or hotels. There are also possible harmful uses of the software programs.
+"There are algorithms that are deciding who gets a loan and who doesn't based on information about where that person lives," MacMillan told VOA. "There are algorithms being used to determine healthcare. ... There are algorithms being used in deciding who gets a job ... We're seeing governments use it for decision making in criminal justice. ... And part of the difficulty with algorithms is we don't always know which information they're drawing from."
+The problem with algorithms like those of Google and Facebook is that they can limit the kinds of information people see, says MacMillan. For example, if you look at news stories on a website run by people with a given set of political beliefs, the algorithm remembers those choices. The next time you search for news, your search engine will likely present more stories from websites that also express those beliefs. And political ads that represent those beliefs may start to appear in your social media feed.
+MacMillan argues this can be harmful to people's critical thinking and lead them to believe that only one point of view is the correct one.
+Project Information Literacy found that college students understand that companies gather their data and direct their internet use. They are unhappy about this, the study showed. So many students are sharing methods for avoiding algorithmic controls.
+This includes creating false online accounts so search results are unaffected by earlier searches. Also, a growing number of students are choosing to use a wide variety of websites so that they get information from different sources.
+Renee Hobbs argues that algorithms are not all bad. She is the director of the Media Education Lab at the University of Rhode Island. Hobbs says search engine algorithms can help you find what might be the most useful information faster.
+But she says it is in the interest of internet companies to keep users on the internet for as long as possible so they see more ads. So search engine algorithms, for example, not only use your search history to decide what to show you. They also present links and information that are most likely to get your attention and not necessarily those that are truthful or trustworthy.
+That is why she and Margy MacMillan agree that as colleges and universities ask students to use the internet more in their studies, schools must train them how to do so. This is also known as algorithm literacy, which they say professors should include in class discussions.
+Hobbes says, "People who are more knowledgeable about the technologies that are part of their everyday lives are generally able to avoid some of the ... risks and harms that can come from not understanding how algorithms shape the content we receive."
+MacMillan says it is the duty of higher education to keep the population informed about the world around them. Yet it is not the duty of higher education alone.
+She says news agencies need to report more about how internet companies use algorithm personalization. And American lawmakers should consider increasing date protection rules.
+I'm -Jill Robbins.
+
+And I'm Pete Musto.
+Pete Musto reported this story for VOA Learning English. Caty Weaver was the editor. Write to us in the Comments Section or on 51VOA.COM.
+
+___________________________________________
+ 
+Words in This Story
+online – adj. connected to a computer, a computer network, or the Internet
+typing – v. writing with a computer keyboard or typewriter
+determine – v. to be the cause of or reason for something
+drawing from – p.v. to form something, such as an idea or conclusion, after thinking carefully about information you have
+feed – n. a means of notifying the user of a website that new content has been added.
+variety – n. the quality or state of having or including many different things
+source(s) – n. someone or something that provides what is wanted or needed

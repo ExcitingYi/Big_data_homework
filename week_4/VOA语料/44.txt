@@ -1,0 +1,27 @@
+By Bryan Lynn
+09 March 2020
+Chinese researchers have developed a robot designed to help doctors treat the new coronavirus and other highly contagious diseases. 
+The machine has a long robotic arm attached to a base with wheels. It can perform some of the same medical examination tasks as doctors. For example, the device can perform ultrasounds, collect fluid samples from a person's mouth and listen to sounds made by a patient's organs. 
+Cameras record the robot's activities, which are controlled remotely so doctors can avoid coming in close contact with infected patients. Doctors and other medical workers can operate the machine from a nearby room, or from much farther away.
+The robot's main designer is Zheng Gangtie, an engineer and professor at China's Tsinghua University in Beijing. He told Reuters news agency that he got the idea for the device around the time of the Lunar New Year in January. At the time, the number of cases of the COVID-19 virus was rising quickly in the city of Wuhan. COVID-19 is the disease caused by the new coronavirus.
+
+This photo shows a robot designed to help medical workers treat coronavirus patients remotely is pictured during a demonstration for the media at the aerospace engineering school of Tsinghua University in Beijing, China March 4, 2020. (REUTERS/Carlos Garc
+Zheng said a friend of his is the head of Beijing's Tsinghua Changgung Hospital. He said his friend told him that one of the biggest problems in dealing with COVID-19 was that healthcare workers treating patients were getting infected themselves. Zheng said he wanted to do something to help this situation.
+So the engineer gathered a team and went to work on the robotic device. Zheng said the team was able to convert two robotic arms. The devices use the same technology that is used for space equipment, including moon explorers. The new robot is almost completely automated, Zheng said. It can even disinfect itself after performing actions involving patient contact.
+"Doctors are all very brave," Zheng told Reuters. "But this virus is just too contagious...We can use robots to perform the most dangerous tasks."
+However, Zheng said he had heard from some doctors that it would be better not to build such robots to be fully automatic. This is because many patients still desire a personal presence to help calm them during treatment.
+The team currently has two robots and both have been tested by doctors at hospitals in Beijing. One machine was taken to Wuhan's Union Hospital, where doctors there were being trained to use it.
+The plan is to use the robot to help treat coronavirus patients, along with assistance from nurses and other hospital workers.
+Zheng would like to build more of the robots, but said money from the university has run out. Each robot costs about $72,000 to make. He said he does not plan to commercialize the design, but hopes that a company can begin that process.
+I'm Bryan Lynn.
+Reuters reported on this story. Bryan Lynn adapted the report for VOA Learning English. Mario Ritter, Jr. was the editor.
+________________________________________________________________
+ 
+Words in This Story
+contagious – adj. capable of being easily spread to others
+task – n. a piece of work for someone to do
+ultrasound – n. a medical test that allows them to see inside their uterus
+remotely – adv. from a distance
+convert – v. to change the appearance, form, or purpose of something
+automate – v. to control something using machines and not people
+commercialize – v. to organize something to make a profit

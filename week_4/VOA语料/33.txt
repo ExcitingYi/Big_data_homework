@@ -1,0 +1,30 @@
+By Bryan Lynn
+11 March 2020
+A Chinese company says it has created a new facial recognition system that can identify people even if they are wearing masks.
+Developers began working on the new system in January, when cases of the new coronavirus began rising in China. The fast spread of the virus – which can be deadly – has led most Chinese citizens to wear face masks in public to help reduce infections. 
+China is recognized as a world leader in the development of artificial intelligence and facial recognition systems. Engineers at the Beijing-based Hanwang Technology Ltd. say their system is the first to be created to effectively identify people wearing face masks.
+The company told the Reuters news agency that a team of 20 people built the system in about a month. The system is based on existing technologies developed over the past 10 years. The process involved adding a collection of about 6 million unmasked faces and a much smaller collection of masked faces, the company said.
+
+Software engineers work on a facial recognition system that identifies people when they wear a face mask at the development lab of the Chinese electronics manufacturer Hanwang.
+Hanwang is now selling two main kinds of products that use the new technology. One performs "single channel" recognition, which is designed to be used at the entrances to buildings.
+The other product is a "multi-channel" recognition system that uses groups of surveillance cameras. Hanwang's vice president, Huang Lei, told Reuters that the multi-channel system can identify individuals in a crowd of up to 30 people "within a second."
+"When wearing a mask, the recognition rate can reach about 95 percent, which can ensure that most people can be identified," Huang said. He added that the system's success rate for people not wearing a mask is about 99.5 percent.
+Huang said officials can use Hanwang's technology to compare images with ministry records on individuals in order to identify and track people as they move about. The system can identify crime suspects, terrorists or make reports or warnings, he added.
+However, the new system struggles to identify people wearing both a mask and sunglasses. "In this situation, all of the key facial information is lost. In such cases recognition is tough," Huang said.
+It was not immediately clear how Chinese citizens were reacting to the new technology. 
+While some citizens have expressed opposition to such tools, many others seem to have accepted the methods as a way to deal with the current health emergency.
+So far, Huang says most interest in the new system has come from within China. But he sees the interest likely expanding if the virus continues to spread and the use of face masks increases.
+I'm Bryan Lynn.
+Reuters news agency reported on this story. Bryan Lynn adapted the report for VOA Learning English. Ashley Thompson was the editor.
+We want to hear from you. Write to us in the Comments section, and visit 51VOA.COM.
+________________________________________________________________
+ 
+Words in This Story
+mask – n. something that covers part of all of the face
+artificial intelligence – n. the development of computer systems with the ability to perform work that normally requires human intelligence
+channel – n. a way of communicating or getting something done
+surveillance – n. the activity of watching people carefully, often secretly, especially by an army or police force
+ensure – v. to make sure something is done of happens
+track – v. follow the movements of a person or thing
+key – adj. very important in influencing or achieving something
+tough – adj. difficult
